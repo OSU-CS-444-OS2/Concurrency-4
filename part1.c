@@ -28,7 +28,7 @@ int main(int argc, char *argv[]){
 	neededAmount = 0;
 	go = 0;
 
-	int i, id[2];
+	int i, id[6];
 	for( i = 0; i < 6; i++){
 
 		//Gives id numbers
